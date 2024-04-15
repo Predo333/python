@@ -18,3 +18,4 @@ else:
     elif imc >=35.0 and imc <39.9:
         print("Obesidade Grau II (severa)")
     else:
+        print("Obesidade Grau III (mórbida)")
